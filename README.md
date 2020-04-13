@@ -1,4 +1,5 @@
 # PAIP2020
-PAIP2020 Forum
+Welcome to this PAIP2020 Forum.
 
-Task : MSI-High Classification in Colorectal Cancer
+Our task for the PAIP2020 is MSI-High Classification in Colorectal Cancer.
+If you have any question or comment, please post a message here.
